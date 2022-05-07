@@ -3,7 +3,7 @@
   "full_name": "crawlab-team/plugin-notification",
   "description": "A plugin for handling notifications",
   "proto": "http",
-  "cmd": "sh ./bin/start.sh",
+  "cmd": "./bin/start.bat",
   "endpoint": "localhost:39999",
   "event_key": {
     "include": "^model:",

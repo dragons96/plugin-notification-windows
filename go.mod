@@ -2,7 +2,6 @@ module github.com/dragons96/plugin-notification-windows
 
 go 1.16
 
-
 require (
 	github.com/apex/log v1.9.0
 	github.com/crawlab-team/crawlab-core v0.6.0-beta.20211219.1940

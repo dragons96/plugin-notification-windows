@@ -2,14 +2,6 @@ module github.com/dragons96/plugin-notification-windows
 
 go 1.16
 
-replace (
-	github.com/crawlab-team/crawlab-core => ../crawlab-core
-	github.com/crawlab-team/crawlab-db => ../crawlab-db
-	github.com/crawlab-team/crawlab-grpc => ../crawlab-grpc
-	github.com/crawlab-team/crawlab-plugin => ../crawlab-plugin
-	github.com/crawlab-team/go-trace => ../go-trace
-	github.com/crawlab-team/template-parser => ../template-parser
-)
 
 require (
 	github.com/apex/log v1.9.0
